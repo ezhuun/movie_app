@@ -1,13 +1,13 @@
 {
-  "main.css": "/ezhuun.github.io/movie_app/static/css/main.83b161eb.chunk.css",
-  "main.js": "/ezhuun.github.io/movie_app/static/js/main.6ebce2ab.chunk.js",
-  "main.js.map": "/ezhuun.github.io/movie_app/static/js/main.6ebce2ab.chunk.js.map",
-  "static/js/1.7c8f41d2.chunk.js": "/ezhuun.github.io/movie_app/static/js/1.7c8f41d2.chunk.js",
-  "static/js/1.7c8f41d2.chunk.js.map": "/ezhuun.github.io/movie_app/static/js/1.7c8f41d2.chunk.js.map",
-  "runtime~main.js": "/ezhuun.github.io/movie_app/static/js/runtime~main.3f220a3f.js",
-  "runtime~main.js.map": "/ezhuun.github.io/movie_app/static/js/runtime~main.3f220a3f.js.map",
-  "static/css/main.83b161eb.chunk.css.map": "/ezhuun.github.io/movie_app/static/css/main.83b161eb.chunk.css.map",
-  "index.html": "/ezhuun.github.io/movie_app/index.html",
-  "precache-manifest.66bf9aef7f22b9d4fc0a3095d94a160e.js": "/ezhuun.github.io/movie_app/precache-manifest.66bf9aef7f22b9d4fc0a3095d94a160e.js",
-  "service-worker.js": "/ezhuun.github.io/movie_app/service-worker.js"
+  "main.css": "/movie_app/static/css/main.83b161eb.chunk.css",
+  "main.js": "/movie_app/static/js/main.ed0aa3f1.chunk.js",
+  "main.js.map": "/movie_app/static/js/main.ed0aa3f1.chunk.js.map",
+  "static/js/1.7c8f41d2.chunk.js": "/movie_app/static/js/1.7c8f41d2.chunk.js",
+  "static/js/1.7c8f41d2.chunk.js.map": "/movie_app/static/js/1.7c8f41d2.chunk.js.map",
+  "runtime~main.js": "/movie_app/static/js/runtime~main.f9521ac5.js",
+  "runtime~main.js.map": "/movie_app/static/js/runtime~main.f9521ac5.js.map",
+  "static/css/main.83b161eb.chunk.css.map": "/movie_app/static/css/main.83b161eb.chunk.css.map",
+  "index.html": "/movie_app/index.html",
+  "precache-manifest.3daaa56c72ff6c702575ac7fca9fcffe.js": "/movie_app/precache-manifest.3daaa56c72ff6c702575ac7fca9fcffe.js",
+  "service-worker.js": "/movie_app/service-worker.js"
 }
